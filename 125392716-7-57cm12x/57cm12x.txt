@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-29102019-011417";"";
+"REFERENCE";"57CM12X";"";
+"TraceParts.PartTitle";"Open loop stepping motor 57CM12X";"";
+"TraceParts.InstanceId";"90-29102019-011417CSPBJVL6JTRXHFRKZGG21ICBD";"";
+"DESIGN";"Open loop stepping motor 57CM12X";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"LEADSHINE";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"LEADSHINE_1170254668:90-29102019-011417";"";

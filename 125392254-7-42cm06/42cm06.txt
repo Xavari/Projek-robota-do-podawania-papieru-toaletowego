@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-29102019-011364";"";
+"REFERENCE";"42CM06";"";
+"TraceParts.PartTitle";"Open loop stepping motor 42CM06";"";
+"TraceParts.InstanceId";"90-29102019-0113641GKFBJID43QWHTSVHPP5VMISA";"";
+"DESIGN";"Open loop stepping motor 42CM06";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"LEADSHINE";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"LEADSHINE_1170254668:90-29102019-011364";"";
